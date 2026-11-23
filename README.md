@@ -1,17 +1,19 @@
-# Urban Services
+# AUREUM — Luxury Experiences
 
-Página principal para el proyecto de servicios: Barbería (Estudiante 1) y Gimnasio (Estudiante 2).
+Sitio web corporativo ficticio de experiencias de lujo, desarrollado con HTML, CSS y JavaScript.
 
-## Archivos
-- `index.html`: página principal.
-- `style.css`: estilos y diseño adaptable.
-- `script.js`: menú móvil y año automático.
+## Estructura
+- `index.html`: portada y descripción de los dos servicios.
+- `yates.html`: servicio de yates privados (Matías).
+- `jets.html`: servicio de aviación ejecutiva (Bismarck).
+- `style.css`: estilos responsivos.
+- `script.js`: menú móvil, filtro de capacidad y formulario simulado.
 
-## Cómo abrir
-Abre la carpeta en Visual Studio Code y ejecuta `index.html` con Live Server.
+## Uso
+Abrir `index.html` en el navegador. Requiere conexión para mostrar las fotografías externas de Unsplash y la tipografía de Google Fonts.
 
-## Páginas que se agregarán
-- `servicio1.html`: detalle de Barbería.
-- `servicio2.html`: detalle de Gimnasio.
+## Advertencia
+Empresa, modelos comerciales y tarifas ficticios. Las fotografías son ilustrativas. No se aceptan reservas reales.
 
-Las fotografías se cargan desde Unsplash, por lo que se necesita conexión a Internet para verlas.
+## GitHub
+Cada integrante debe trabajar en una rama distinta y crear un Pull Request hacia `main`.
